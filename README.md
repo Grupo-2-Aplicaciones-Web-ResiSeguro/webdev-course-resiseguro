@@ -21,9 +21,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 3: Elementos comunes en HTML (12 minutos)
 - **Descripción**: Incorpora imágenes, enlaces y listas para hacer tu página más interactiva.
-- **Enlace**:(link del video )
+- **Enlace**:https://www.youtube.com/watch?v=KXkkCDM1RRQ
 - **Consejos clave**: Usa `<img>`, `<a>`, `<ul>` y `<li>`.
-- **Práctica**: (Enlace a Desarrollo completo en CodePen)
+- **Práctica**: https://codepen.io/Kayroz-the-styleful/pen/vELMpOG?editors=1010
 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Aprende a cambiar colores, fuentes, márgenes y agregar efectos visuales.
