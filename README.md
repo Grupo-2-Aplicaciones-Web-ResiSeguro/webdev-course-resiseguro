@@ -17,7 +17,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Aprende la anatomía de una página web: etiquetas, metadatos y jerarquía de titulos.
 - **Enlace**: (https://youtu.be/HO7umCF-2Bw)
 - **Consejos clave**: Usa correctamente `<head>`, `<body>`, `<meta>`, `<h1>`–`<h6>`.
-- **Práctica**:(https://codepen.io/dosullz/pen/QNxdzd)
+- **Práctica**:(https://codepen.io/Micchon-Jos-Pariona/pen/RNrzWBm)
 
 ### Lección 3: Elementos comunes en HTML (12 minutos)
 - **Descripción**: Incorpora imágenes, enlaces y listas para hacer tu página más interactiva.
