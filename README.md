@@ -19,7 +19,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Consejos clave**: Usa correctamente `<head>`, `<body>`, `<meta>`, `<h1>`–`<h6>`.
 - **Práctica**:(Enlace a Desarrollo completo en CodePen)
 
-### Lección 3: Elementos comunes en HTML (12 minutos)
+### Lección 3: Elementos comunes en HTML (12:04 minutos)
 - **Descripción**: Incorpora imágenes, enlaces y listas para hacer tu página más interactiva.
 - **Enlace**:https://www.youtube.com/watch?v=KXkkCDM1RRQ
 - **Consejos clave**: Usa `<img>`, `<a>`, `<ul>` y `<li>`.
