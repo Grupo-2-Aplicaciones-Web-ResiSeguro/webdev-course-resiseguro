@@ -7,11 +7,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
 **Repositorio de código fuente**: https://github.com/Grupo-2-Aplicaciones-Web-ResiSeguro/webdev-course-resiseguro
 ## Secuencia de la lección
-### Lección 1: ¿Qué es el desarrollo web? (12 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (12:13 minutos)
 - **Descripción**: Descubre cómo funcionan las páginas web y por qué HTML y CSS son esenciales.
-- **Enlace**: (link del video )
+- **Enlace**: (https://youtu.be/cd7BnocOjtg) 
 - **Consejos clave**: HTML = estructura; CSS = estilo.
-- **Empieza a programar**: (Enlace a Desarrollo completo en CodePen)
+- **Empieza a programar**: (https://codepen.io/javier-rios-the-builder/pen/WbwerRw)
 
 ### Lección 2: Estructura básica de HTML (12 minutos)
 - **Descripción**: Aprende la anatomía de una página web: etiquetas, metadatos y jerarquía.
