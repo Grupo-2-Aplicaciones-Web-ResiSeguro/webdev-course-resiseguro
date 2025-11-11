@@ -25,11 +25,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Consejos clave**: Usa `<img>`, `<a>`, `<ul>` y `<li>`.
 - **Práctica**: https://codepen.io/Kayroz-the-styleful/pen/vELMpOG?editors=1010
 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS (15:36 minutos)
 - **Descripción**: Aprende a cambiar colores, fuentes, márgenes y agregar efectos visuales.
-- **Enlace**: (link del video )
+- **Enlace**: (https://youtu.be/pyUBJXmXXs4)
 - **Consejos clave**: Usa selectores y propiedades CSS básicas.
-- **Práctica**: (Enlace a Desarrollo completo en CodePen)
+- **Práctica**: (https://codepen.io/javier-rios-the-builder/pen/gbrbJmO)
 
 ### Lección 5: Crear una página web sencilla (12 minutos)
 - **Descripción**: Combina todo lo aprendido para construir tu página de perfil personal.
