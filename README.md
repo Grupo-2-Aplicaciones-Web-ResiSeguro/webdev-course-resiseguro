@@ -1,7 +1,7 @@
 # Fundamentos de Desarrollo Web
 ## Resumen del Curso
-Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No requiere descargas!** Solo abre tu navegador web.
-**Duración total**: ~60 minutos  
+Este curso de a penas poco más de una hora hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No requiere descargas!** Solo abre tu navegador web.
+**Duración total**: ~77 minutos  
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
@@ -13,7 +13,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Consejos clave**: HTML = estructura; CSS = estilo.
 - **Empieza a programar**: (https://codepen.io/javier-rios-the-builder/pen/WbwerRw)
 
-### Lección 2: Estructura básica de HTML (8 minutos con 24 segundos )
+### Lección 2: Estructura básica de HTML (8:24 minutos )
 - **Descripción**: Aprende la anatomía de una página web: etiquetas, metadatos y jerarquía de titulos.
 - **Enlace**: (https://youtu.be/HO7umCF-2Bw)
 - **Consejos clave**: Usa correctamente `<head>`, `<body>`, `<meta>`, `<h1>`–`<h6>`.
