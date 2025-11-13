@@ -31,7 +31,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Consejos clave**: Usa selectores y propiedades CSS básicas.
 - **Práctica**: (https://codepen.io/javier-rios-the-builder/pen/gbrbJmO)
 
-### Lección 5: Crear una página web sencilla (12 minutos)
+### Lección 5: Crear una página web sencilla (29:36 minutos)
 - **Descripción**: Combina todo lo aprendido para construir tu página de perfil personal.
 - **Enlace**: (https://youtu.be/U18fw6ppU5s)
 - **Consejos clave**: Usa `<header>`, `<section>`, `<footer>` y estilos consistentes.
